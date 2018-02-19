@@ -1,12 +1,12 @@
 `atom/src/text-mate-language-mode.js`
-```python
+```javascript
 suggestedIndentForBufferRow (bufferRow, tabLength, options)
 suggestedIndentForLineAtBufferRow (bufferRow, line, tabLength) 
 suggestedIndentForEditedBufferRow (bufferRow, tabLength) 
 ```
 
 `atom/src/tree-sitter-language-mode.js`
-```python
+```javascript
 
  /*
   Section - Indentation
